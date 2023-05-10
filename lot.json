@@ -84,9 +84,9 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
-		"enterButtonText": "SHOP NOW",
+		"enterButtonText": "BIG SHOP NOW",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.dollartree.com/",
 			
 			
