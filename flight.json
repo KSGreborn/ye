@@ -84,10 +84,10 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
-		"enterButtonText": "FLIGHT SHOP NOW",
+		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": false,
-			"url": "https://www.dollartree.com/",
+			"active": true,
+			"url": "https://www.flightclub.com/",
 			
 			
 			
