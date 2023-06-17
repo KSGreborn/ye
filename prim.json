@@ -6,13 +6,13 @@
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
         "bannerAd": "admob",
-        "InterAd": "max",
+        "InterAd": "admob",
         "NativeAd": "admob",
 	"EnableBnr_Ntv":true,
 	    
 	    
         "admob_banner": "/21753324030,22877764688/com.primshopping.storeplprim.shopapp_Banner",
-        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_inter": "/21753324030,22877764688/com.primshopping.storeplprim.shopapp_Interstitial",
         "admob_native": "/21753324030,22877764688/com.primshopping.storeplprim.shopapp_Native",
 	    
 	    
