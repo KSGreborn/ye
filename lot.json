@@ -6,12 +6,12 @@
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
         "bannerAd": "admob",
-        "InterAd": "max",
+        "InterAd": "admob",
         "NativeAd": "admob",
 	"EnableBnr_Ntv":true,
 	    
         "admob_banner": "/21753324030,22877764688/com.biglots.shopping.biglotsshop_Banner",
-        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_inter": "/21753324030,22877764688/com.biglots.shopping.biglotsshop_Interstitial",
         "admob_native": "/21753324030,22877764688/com.biglots.shopping.biglotsshop_Native",
 	    
         "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
