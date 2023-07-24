@@ -52,14 +52,14 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardrewards.online/",
 			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/KVjc2k3/newbigcpa.jpg"
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": true,
+		"genderActivity": false,
 	    
 		"phoneSystemActivity": false,
 	    
@@ -77,7 +77,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":true,
+                "CaptchaActivity":false,
 	    
 	    
 		"extraButton1Active": false,
@@ -97,7 +97,7 @@
 			"popUpLink": "https://giftcardrewards.online/",
 			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/KVjc2k3/newbigcpa.jpg",
-			"popUpTimer": 30000
+			"popUpTimer": 40000
 		}
     }
 }
