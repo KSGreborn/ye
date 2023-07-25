@@ -5,10 +5,10 @@
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
-        "bannerAd": "admob",
-        "InterAd": "admob",
-        "NativeAd": "admob",
-	"EnableBnr_Ntv":true,
+        "bannerAd": "max",
+        "InterAd": "max",
+        "NativeAd": "max",
+	"EnableBnr_Ntv":false,
 	    
 	    
         "admob_banner": "/21753324030,22877764688/com.primshopping.storeplprim.shopapp_Banner",
@@ -59,7 +59,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardrewards.online/",
 			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/t8vz6fZ/nwprimgift.jpg"
@@ -84,7 +84,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":true,
+                "CaptchaActivity":false,
 	    
 	    
 		"extraButton1Active": false,
