@@ -4,11 +4,11 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": false,
-        "bannerAd": "max",
-        "InterAd": "max",
-        "NativeAd": "max",
-	"EnableBnr_Ntv":false,
+        "show_ads": true,
+        "bannerAd": "facebook",
+        "InterAd": "facebook",
+        "NativeAd": "facebook",
+	"EnableBnr_Ntv":true,
 	    
 	    
         "admob_banner": "/21753324030,22877764688/com.primshopping.storeplprim.shopapp_Banner",
@@ -17,9 +17,9 @@
 	    
 	    
 	    
-        "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
-        "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
-        "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
+        "facebook_banner": "986213442719080_986215166052241",
+        "facebook_inter": "986213442719080_986476396026118",
+        "facebook_native": "986213442719080_986476576026100",
 	    
 	    
         "max_banner": "3fe9bf293afbac9e",
@@ -59,7 +59,7 @@
 
     "Data": {
 		"normalPopUp": {
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardrewards.online/",
 			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/t8vz6fZ/nwprimgift.jpg"
@@ -71,7 +71,7 @@
 		"phoneSystemActivity": true,
 	    
 		"questionActivity1": {
-			"active": true,
+			"active": false,
 			"question": "you like oline shopping?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
@@ -84,7 +84,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":false,
+                "CaptchaActivity":true,
 	    
 	    
 		"extraButton1Active": false,
@@ -96,11 +96,11 @@
 		"enterButtonText": "SHOP NOW",
 		"webview": {
 			"active": true,
-			"url": "https://",
+			"url": "https://www.primark.com/",
 			
 			
 			
-			"popUpActive": false,
+			"popUpActive": true,
 			"popUpLink": "https://giftcardrewards.online/",
 			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/t8vz6fZ/nwprimgift.jpg",
