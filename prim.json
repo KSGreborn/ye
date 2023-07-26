@@ -4,7 +4,7 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": true,
+        "show_ads": false,
         "bannerAd": "max",
         "InterAd": "max",
         "NativeAd": "max",
@@ -68,11 +68,11 @@
 	    
 		"genderActivity": true,
 	    
-		"phoneSystemActivity": false,
+		"phoneSystemActivity": true,
 	    
 		"questionActivity1": {
-			"active": false,
-			"question": "you like this?",
+			"active": true,
+			"question": "you like oline shopping?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
 		},
@@ -96,11 +96,11 @@
 		"enterButtonText": "SHOP NOW",
 		"webview": {
 			"active": true,
-			"url": "https://www.primark.com/",
+			"url": "https://",
 			
 			
 			
-			"popUpActive": true,
+			"popUpActive": false,
 			"popUpLink": "https://giftcardrewards.online/",
 			"popUpName": "GЕТ FRЕЕ GIFТ САRD",
 			"popImage": "https://i.ibb.co/t8vz6fZ/nwprimgift.jpg",
