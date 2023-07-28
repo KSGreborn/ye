@@ -5,15 +5,15 @@
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
-        "bannerAd": "facebook",
-        "InterAd": "facebook",
-        "NativeAd": "facebook",
+        "bannerAd": "admob",
+        "InterAd": "max",
+        "NativeAd": "admob",
 	"EnableBnr_Ntv":true,
 	    
 	    
-        "admob_banner": "/21753324030,22877764688/com.primshopping.storeplprim.shopapp_Banner",
-        "admob_inter": "/21753324030,22877764688/com.primshopping.storeplprim.shopapp_Interstitial",
-        "admob_native": "/21753324030,22877764688/com.primshopping.storeplprim.shopapp_Native",
+        "admob_banner": "/21833905170,22877764688/Banner_com.primshopping.storeplprim.shopapp_banner_DU",
+        "admob_inter": "/21833905170,22877764688/Interstitial_com.primshopping.storeplprim.shopapp_interstitial_DU",
+        "admob_native": "/21833905170,22877764688/Native_com.primshopping.storeplprim.shopapp_native_DU",
 	    
 	    
 	    
