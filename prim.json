@@ -5,9 +5,9 @@
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
-        "bannerAd": "admob",
-        "InterAd": "max",
-        "NativeAd": "admob",
+        "bannerAd": "facebook",
+        "InterAd": "facebook",
+        "NativeAd": "facebook",
 	"EnableBnr_Ntv":true,
 	    
 	    
@@ -66,7 +66,7 @@
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": false,
+		"genderActivity": true,
 	    
 		"phoneSystemActivity": false,
 	    
@@ -84,7 +84,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":false,
+                "CaptchaActivity":true,
 	    
 	    
 		"extraButton1Active": false,
