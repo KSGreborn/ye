@@ -6,7 +6,7 @@
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
         "bannerAd": "facebook",
-        "InterAd": "facebook",
+        "InterAd": "max",
         "NativeAd": "facebook",
 	"EnableBnr_Ntv":true,
 	    
