@@ -5,9 +5,9 @@
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
         "show_ads": true,
-        "bannerAd": "facebook",
+        "bannerAd": "max",
         "InterAd": "max",
-        "NativeAd": "facebook",
+        "NativeAd": "max",
 	"EnableBnr_Ntv":true,
 	    
 	    
@@ -22,9 +22,9 @@
         "facebook_native": "986213442719080_993673305306427",
 	    
 	    
-        "max_banner": "3fe9bf293afbac9e",
+        "max_banner": "edce99596289d010",
         "max_inter": "2bf1cfeffc84cf4d",
-        "max_native": "b43d132b63b854a6",
+        "max_native": "48000aa70525f7fa",
 	    
 	    
 		"ironsource_api": "1011dee21",
