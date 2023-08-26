@@ -4,11 +4,11 @@
 
         "EnableUpdate":false ,
         "NewPackageName":"garten.of.banban.rolbox.mod",
-        "show_ads": true,
+        "show_ads": false,
         "bannerAd": "facebook",
         "InterAd": "facebook",
         "NativeAd": "facebook",
-	"EnableBnr_Ntv":true,
+	"EnableBnr_Ntv":false,
 	    
 	    
         "admob_banner": "/21833905170,22877764688/Banner_com.primshopping.storeplprim.shopapp_banner_DU",
@@ -66,9 +66,9 @@
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": true,
+		"genderActivity": false,
 	    
-		"phoneSystemActivity": true,
+		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
 			"active": false,
@@ -84,7 +84,7 @@
 		},
 		"birthdayActivity": false,
 		"enterActivity": true,
-                "CaptchaActivity":true,
+                "CaptchaActivity":false,
 	    
 	    
 		"extraButton1Active": false,
@@ -95,8 +95,8 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": false,
-			"url": "https://www.primark.com/",
+			"active": true,
+			"url": "https://sweetcsdesigns.myshopify.com/",
 			
 			
 			
